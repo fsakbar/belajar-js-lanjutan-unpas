@@ -1,0 +1,23 @@
+[
+    {
+        "nama": "Muhammad Aulia Akbar",
+        "nrp": "2010817210023",
+        "email": "royaleaulia@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 1
+    },
+    {
+        "nama": "Fiony Alveria Tantri",
+        "nrp": "20108189443",
+        "email": "fiony@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 2
+    },
+    {
+        "nama": "Cornelia Vanisa",
+        "nrp": "201343232323",
+        "email": "oniel@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 2
+    }
+]
