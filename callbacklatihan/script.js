@@ -23,9 +23,6 @@ $('.search-button').on('click', function(){
                     }
                 });
             });
-            
-        
-        
         },
         error: (e) => {
             console.log(e.responseText)
